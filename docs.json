@@ -17,6 +17,12 @@
             "pages": [
               "index"
             ]
+          },
+          {
+            "group": "Glossary",
+            "pages": [
+              "docs/what-is-3pl"
+            ]
           }
         ]
       }
