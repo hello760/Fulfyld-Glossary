@@ -34,5 +34,8 @@
     "socials": {
       "website": "https://fulfyld.com"
     }
+  },
+  "branding": {
+    "hideMintlifyBranding": true
   }
 }
